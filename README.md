@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm zamp</h1>
 <h3 align="center">2nd-year CS student at the University of Sydney</h3>
 
+- 🌱 I’m currently learning **LLMs | ML**
+
 - 📫 How to reach me **zampxxxx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zamp0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zamp0x0" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zampxxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zampxxxx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
