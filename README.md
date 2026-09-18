@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zamp</h1>
-<h3 align="center">2nd-year CS student at the University of Sydney</h3>
+<h3 align="center">3rd-year CS student at the University of Sydney</h3>
 
 - 🌱 I’m currently learning **LLMs | ML**
 
