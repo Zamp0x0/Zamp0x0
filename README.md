@@ -39,7 +39,7 @@ exploring AI Agents, Memory Systems, DevOps & Infrastructure
 
 <img align="right"
 alt="Coding Cat"
-width="360"
+width="188"
 src="https://raw.githubusercontent.com/Zamp0x0/Zamp0x0/main/cat1-0-4.gif">
 
 🔭 I’m currently working on **memory systems for LLM-powered applications**
