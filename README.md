@@ -112,11 +112,19 @@ src="https://raw.githubusercontent.com/Zamp0x0/Zamp0x0/main/cat1-0-4.gif">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img
-src="https://raw.githubusercontent.com/Zamp0x0/Zamp0x0/main/golden-retriever-dog.gif"
-width="110">
-
-<em>
-<b>Thanks for stopping by!</b>
-Always happy to meet people who enjoy building cool things, exploring new technology, and of course, dogs. 🐾
-</em>
+<table>
+  <tr>
+    <td align="left" width="120">
+      <img src="https://github.com/Zamp0x0/Zamp0x0/blob/main/golden-retriever-walking.webp?raw=true" width="100">
+    </td>
+    <td align="center">
+      <em>
+        <b>Thanks for stopping by!</b><br>
+        Always happy to meet people who enjoy building cool things, exploring new technology, and of course, dogs. 🐾
+      </em>
+    </td>
+    <td align="right" width="120">
+      <img src="https://github.com/Zamp0x0/Zamp0x0/blob/main/golden-retriever-dog.gif?raw=true" width="100">
+    </td>
+  </tr>
+</table>
