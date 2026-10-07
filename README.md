@@ -14,7 +14,7 @@ exploring AI Agents, Memory Systems, DevOps & Infrastructure
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zamp0x0&label=Profile%20views&color=0e75b6&style=flat" alt="Zamp0x0" />
+  <img src="https://komarev.com/ghpvc/?username=Zamp0x0&label=Another%20human%20found%20this%20place&color=0e75b6&style=flat" alt="Zamp0x0" />
 </p>
 
 <div align="center">
