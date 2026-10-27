@@ -92,8 +92,6 @@ src="https://raw.githubusercontent.com/Zamp0x0/Zamp0x0/main/cat1-0-4.gif">
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-4F46E5?style=flat-square)
 
 **Cloud / DevOps / Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
