@@ -9,7 +9,7 @@ width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Zamp</h1>
 
 <h3 align="center">
-Third-year Computer Science student @ University of Sydney<br>
+Third-year CS student @ University of Sydney<br>
 exploring AI Agents, Memory Systems, DevOps & Infrastructure
 </h3>
 
